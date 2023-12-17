@@ -1,7 +1,7 @@
 # CompGraphicAndVisualization-
 CS-330 Comp Graphic and Visualization at SNHU
 
-The zipped file that could not be added due to size can be found here:
+The project zip file that could not be added due to size can be found here:
 https://drive.google.com/drive/folders/1PkR8XVFGGX2ZS8ojzewylNz39TlqR02e?usp=sharing
 
 Reflection:
